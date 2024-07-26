@@ -7,8 +7,9 @@ export default {
     "./plugins/**/*.{js,ts}",
     "./app.vue",
     "./error.vue",
-
   ],
+  darkMode: 'selector',
+  // darkMode: ['selector', '[data-mode="dark"]'],
   theme: {
     extend: {},
   },

@@ -13,3 +13,16 @@
 h1, h2, h3, h4, h5{
     font-family: 'FarAwayGalaxy', sans-serif;
 }
+
+.dark{
+    background-color: #010712;
+}
+
+html{
+    background-color: #eeeeee;
+}
+
+/* [theme="custom-light"] {
+    background: #eeeeee;
+    color: #101010;
+} */
