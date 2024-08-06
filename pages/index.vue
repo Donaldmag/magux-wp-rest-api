@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="text-xl font-500">Content</h1>
+        <h1 class="text-xl font-500 h-screen">Content</h1>
     </div>
 </template>
 
